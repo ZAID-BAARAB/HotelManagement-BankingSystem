@@ -17,8 +17,12 @@ All data is stored in-memory using `ArrayList`. This is a console-based applicat
 ## 🚀 How to Run
 
 1. **Package the project**  
-   From the root directory (where `pom.xml` is located), run:
-   
+   navigate to the root directory (where `pom.xml` is located).
+
+   ```bash
+   cd HotelManagement-BankingSystem\hotelManagement
+   ```
+   run :
    ```bash
    mvn clean compile
    ```

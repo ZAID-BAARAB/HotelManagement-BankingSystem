@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c007791-017c-4ea8-9574-5cb1a132da4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/RoomType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skypay/hotel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banking/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banking/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banking/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../banking/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/HP/Desktop/skaypay/hotelManagement/src/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,6 +98,7 @@
       <updated>1751025608475</updated>
       <workItem from="1751025610863" duration="5453000" />
       <workItem from="1751224727468" duration="3413000" />
+      <workItem from="1751232777671" duration="713000" />
     </task>
     <servers />
   </component>
